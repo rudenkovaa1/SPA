@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SPA/static/css/main.765424da.css",
+    "main.js": "/SPA/static/js/main.53ec26a3.js",
+    "static/media/Together-as-One-How-to-Create-a-Strong-Cohesive-Business-Team.jpg": "/SPA/static/media/Together-as-One-How-to-Create-a-Strong-Cohesive-Business-Team.08d5902a6b72066895de.jpg",
+    "index.html": "/SPA/index.html",
+    "main.765424da.css.map": "/SPA/static/css/main.765424da.css.map",
+    "main.53ec26a3.js.map": "/SPA/static/js/main.53ec26a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765424da.css",
+    "static/js/main.53ec26a3.js"
+  ]
+}
